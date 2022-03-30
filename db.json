@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "School Meeting",
+      "day": "May 6th at 3:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "May 6th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Sea Fishing",
+      "day": "May 8th at 4:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Car Wash",
+      "day": "monday 27th may",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "laundry",
+      "day": "monday 3rd feb ",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
